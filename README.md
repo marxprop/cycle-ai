@@ -6,7 +6,7 @@ Check out the project at:-  https://hf.space/embed/maxprop/cycle_ai/+/api/predic
 
 POST API Endpoint:-  https://hf.space/embed/maxprop/cycle_ai/+/api/predict
 
-# Application shot
+# Application
 ![app-shot](https://user-images.githubusercontent.com/105202204/184667427-229f9989-60d8-44f3-b41f-93f902c28808.png)
 
 
