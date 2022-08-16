@@ -2,7 +2,7 @@
 Machine Learning model for classifying different types of recyclable plastic bottles
 
 
-Check out the project at:-  https://hf.space/embed/maxprop/cycle_ai/+/api/predict
+Check out the project at:-  [https://hf.space/embed/maxprop/cycle_ai/+/api/predict](https://huggingface.co/spaces/maxprop/cycle_ai)
 
 POST API Endpoint:-  https://hf.space/embed/maxprop/cycle_ai/+/api/predict
 
